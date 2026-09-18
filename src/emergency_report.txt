@@ -1,0 +1,21 @@
+
+------- EMERGENCY REPORT --------
+Emergency ID : 101
+Type         : MEDICAL
+Severity     : HIGH
+Status       : RESOLVED
+----------------------------------
+
+------- EMERGENCY REPORT --------
+Emergency ID : 102
+Type         : FIRE
+Severity     : CRITICAL
+Status       : RESOLVED
+----------------------------------
+
+------- EMERGENCY REPORT --------
+Emergency ID : 103
+Type         : SECURITY
+Severity     : HIGH
+Status       : RESOLVED
+----------------------------------

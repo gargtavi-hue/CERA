@@ -1,0 +1,2 @@
+package enums;
+public enum ResourceType {AMBULANCE,FIRST_AID_KIT,FIRE_EXTINGUISHER,SECURITY_VEHICLE}
