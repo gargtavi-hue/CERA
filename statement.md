@@ -1,4 +1,5 @@
-# CERA — Campus Emergency Response & Resource Allocation System
+# CERA 
+Campus Emergency Response & Resource Allocation System
 
 ## 1. Problem Statement
 
